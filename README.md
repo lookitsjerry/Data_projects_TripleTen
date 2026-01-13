@@ -3,7 +3,7 @@ BIA TripleTen projects by Jeremiah.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [BIA Data Jam](https://github.com/lookitsjerry/Data_projects_TripleTen/tree/main/BI%20Data%20Jam) | The project task was to visualize air quality data in New York City that highlighted issues of environmental equity and public health. |
+| 1 | [BIA Data Jam](https://github.com/lookitsjerry/Data_projects_TripleTen/tree/main/BI%20Data%20Jam) | Developed an interactive Tableau dashboard to visualize New York City air quality data, specifically focusing on the intersection of environmental equity and public health. I transformed complex datasets into spatial and temporal visualizations to identify neighborhood-level pollution disparities and their correlation with local health outcomes. |
 | 2 | [Airbnb Data Analysis](https://github.com/lookitsjerry/Data_projects_TripleTen/tree/main/Spreadsheet%20Data%20Analysis) | The project task was to help out a Manhattan-based client find a new home by looking at the housing sizes and property prices. |
 | 3 | [Business Analytics Project](https://github.com/lookitsjerry/Data_projects_TripleTen/tree/main/Business%20Analytics%20Project) | The project task was to analyze raw transaction logs and then provide observations from the data. |
 | 4 | [Superstore Tableau Project](https://github.com/lookitsjerry/Data_projects_TripleTen/tree/main/Superstore%20Tableau%20Project) | The project task was to review the superstore’s operations and increase its profitability to avoid bankruptcy. |
