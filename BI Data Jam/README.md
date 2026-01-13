@@ -1,4 +1,4 @@
-# NYC Air Quality & Environmental Equity Dashboard
+# NYC Air Quality Analysis Dashboard
 
 ## 📌 Project Overview
 This project explores the intersection of air quality, urban density, and public health across New York City. The goal was to transform complex environmental datasets into a compelling visual narrative that highlights issues of **environmental equity**.
