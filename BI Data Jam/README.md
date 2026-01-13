@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This project explores the intersection of air quality, urban density, and public health across New York City. The goal was to transform complex environmental datasets into a compelling visual narrative that highlights issues of **environmental equity**.
 
+## 📺 Project Walkthrough
+For a detailed video explanation of my findings and the dashboard functionality, please click the link below:
+👉 **[Watch the Project Presentation](https://lnkd.in/gPJwDBvQ)**
+
 The resulting dashboard serves as a tool for advocates and policymakers to identify neighborhoods in need of targeted environmental interventions.
 
 ## 📊 Key Insights & Features
