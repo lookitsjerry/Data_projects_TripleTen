@@ -4,10 +4,6 @@
 ## 📌 Project Overview
 This project performs a deep dive into the "Superstore" dataset to identify drivers of profitability and operational inefficiencies. The analysis is divided into three strategic pillars: **Profit/Loss Centers**, **Advertising ROI**, and **Returns Management**.
 
-## 📺 Project Walkthrough
-For a detailed video explanation of my findings and the dashboard functionality, please click the link below:
-👉 **[Watch the Project Presentation](https://lnkd.in/gPJwDBvQ)**
-
 ---
 
 ## 🔍 Analysis Breakdown
