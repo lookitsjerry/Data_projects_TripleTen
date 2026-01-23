@@ -13,14 +13,13 @@ The goal of this project was to analyze Zomato’s customer base to identify key
 I performed extensive data preprocessing in **Power Query** to ensure the integrity of the insights:
 * **Data Type Standardization:** Converted `rating` and `cost` from text to numeric formats to enable calculations for Average Order Value (AOV).
 * **Null Value Management:** Filtered out null restaurant names and incomplete demographic rows to prevent skewed percentages.
-* **Feature Engineering:** * Created a **Day Type** column (Weekday vs. Weekend) using DAX: `Day Type = IF(WEEKDAY('orders'[order_date], 2) >= 6, "Weekend", "Weekday")`.
-    * Developed a **Quantity per Order** measure to identify bulk-buying behaviors.
+* **Feature Engineering:** * Created a **Day Type** column (Weekday vs. Weekend) using DAX: `Day of Week = FORMAT('orders'[order_date], "dddd")`.
 * **Clustering Logic:** Applied K-Means clustering to normalized variables (Frequency vs. Revenue) to ensure spend amounts didn't disproportionately outweigh order counts.
 
 ## 💡 Hypotheses & Key Observations
 
 ### Hypothesis 1: The "Youth Volume" Play
-> *"Zomato’s market penetration is concentrated in early-lifecycle users, creating a high-volume but low-immediate-margin user base."*
+> *"Zomato’s market penetration is concentrated in Gen-Z users, creating a high-volume but low-immediate-margin user base."*
 * **Observation:** Users aged **18-25 (Gen Z)** represent over 70% of the platform's traffic. While they drive the highest volume, they primarily fall into the "No Income" (Student) bracket.
 * **Metric:** 72% of total orders are attributed to the Student segment.
 
